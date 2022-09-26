@@ -40,6 +40,11 @@ __fastcall TDateTimePickersForm::TDateTimePickersForm(TComponent* Owner)
 
 // トークンを作成した後、トークンをどうするかを説明しないのはなぜですか?!
 
+
+
+
+
+
 }
 //---------------------------------------------------------------------------
 void __fastcall TDateTimePickersForm::FormCreate(TObject *Sender)
