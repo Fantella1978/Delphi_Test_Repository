@@ -1,4 +1,4 @@
-﻿//---------------------------------------------------------------------------
+//---------------------------------------------------------------------------
 
 // This software is Copyright (c) 2017 Embarcadero Technologies, Inc.
 // You may only use this software if you are an authorized licensee
@@ -8,12 +8,6 @@
 // and is subject to that software license agreement.
 
 //---------------------------------------------------------------------------
-
-
-
-
-// このソフトウェアの著作権は
-
 
 
 // 2 commits
