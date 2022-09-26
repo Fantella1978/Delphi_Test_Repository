@@ -1,2 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject/>
+<BorlandProject>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DateTimePickers.cpp"/>
+    <File Path="DateTimePickersPCH.h"/>
+    <File Path="uDateTimePickers.cpp"/>
+    <File Path="uDateTimePickers.cpp"/>
+    <File Path="uDateTimePickers.dfm"/>
+    <File Path="uDateTimePickers.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
